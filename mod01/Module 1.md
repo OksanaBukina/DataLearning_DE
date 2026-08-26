@@ -22,3 +22,7 @@ A high-level architecture diagram representing the analytical solution for the c
 ## Architecture Diagram
 ![Analytical Solution Architecture](./Analytical Solution Architecture.jpg)
 
+## Architecture Diagram
+
+![Analytical Solution Architecture](./AnalyticalSolutionArchitecture.jpg)
+
