@@ -25,3 +25,8 @@ A high-level architecture diagram representing the analytical solution for the c
 
 ![Analytical Solution Architecture](./AnalyticalSolutionArchitecture.jpg)
 
+
+# Excel Dashboard
+I analysed the Sample Superstore dataset in Excel. I used VLOOKUP to cross-reference data, built pivot tables to summarise sales and profit, created charts to visualise trends, and put together a dashboard covering key metrics like Total Sales, Total Profit, Profit Ratio, and breakdowns by segment, category, region, and customer.
+![Analytical Solution Architecture](./Analytical.png)
+
