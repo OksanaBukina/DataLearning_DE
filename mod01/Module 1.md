@@ -19,5 +19,6 @@ The architecture should demonstrate the main components of the analytical platfo
 A high-level architecture diagram representing the analytical solution for the company.
 
 **Tool:** [draw.io](https://app.diagrams.net/)
+## Architecture Diagram
 ![Analytical Solution Architecture](./Analytical Solution Architecture.jpg)
 
